@@ -1,6 +1,6 @@
 # Attendance-Tracker
 COMP 4710 Project  
-Senior Design
+Senior Design: Application for counting attandance for student and export the granding report.
 
 ## Groupmates
 - Ethan Brown [@ewbrowntech](https://github.com/ewbrowntech)
